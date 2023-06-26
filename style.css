@@ -25,6 +25,8 @@ body {
 }
 
 h1 {
+    text-align: center;
+    margin: 0 auto;
     position: absolute;
     top: 8vh;
     padding: 10px;
