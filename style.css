@@ -37,23 +37,24 @@ h1 {
 }
 
 button {
+    background-color: transparent;
     border-radius: 30px;
     width: 20vw;
     height: 10vh;
     border-radius: 5px;
     border: none;
-    background-color: #fff;
     font-size: 2vh;
     font-weight: 600;
     margin-top: 2vh;
     margin-bottom: 20vh;
     cursor: pointer;
+    transition: 0.48s ease-in-out;
 }
 
 button:hover {
+    background-color: white;
     color: #000000;
     transform: scale(1.15);
-    transition: 0.37s ease-in, 0.37 ease-out;
 }
 
 .output_box {
