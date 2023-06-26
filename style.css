@@ -91,8 +91,8 @@ output {
         font-size: 2vh;
     }
     output {
-        width: 40vw;
-        height: 5vh;
+        width: 16vw;
+        height: 4vh;
         font-size: 2vh;
     }
     #output_one,
@@ -100,5 +100,6 @@ output {
     #output_three,
     #output_four {
         font-size: 2vh;
+
     }
 }
