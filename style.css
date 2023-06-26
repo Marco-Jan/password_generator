@@ -25,7 +25,8 @@ body {
 }
 
 h1 {
-    margin-bottom: 5vh;
+    position: absolute;
+    top: 20vh;
     padding: 10px;
     font-size: 4vh;
     font-weight: 600;
@@ -48,8 +49,9 @@ button {
 }
 
 button:hover {
-    background-color: #050801;
-    color: #fff;
+    color: #000000;
+    transform: scale(1.15);
+    transition: 0.37s ease-in, 0.37 ease-out;
 }
 
 .output_box {
@@ -83,6 +85,7 @@ output {
         font-size: 2vh;
     }
     h1 {
+        margin-top: ;
         font-size: 3vh;
     }
     button {
