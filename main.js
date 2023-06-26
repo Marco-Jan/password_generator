@@ -39,25 +39,3 @@ start_btn.addEventListener('click', function(){
 
 
 
-// const start_btn = document.getElementById("generator_btn");
-
-// // übergabe char an output im html
-// const output = document.getElementById("output_one").innerHTML = chars[rand];
-
-
-// // Eventlistener
-
-// start_btn.addEventListener('click', function(){
-//     console.log('clicked');
-
-
-    
-
-//     const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-//     const rand = Math.floor(Math.random() * chars.length);
-//     console.log(chars[rand]);
-//     return chars[rand];
-
-
-    
-// });
